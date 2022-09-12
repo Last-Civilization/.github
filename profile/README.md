@@ -1,6 +1,5 @@
 ## Last-Civilization 👋
 
 
-Projekt gry w klimacie post apokaliptycznym. <br>
-Użytkownicy chodzą na wyprawy by zdobyć ekwipunek,
-aby następnie walczyć między sobą na arenie.
+Projekt gry oparty na klimacie postapokaliptycznym. <br>
+Gracze udają się na wyprawy, by zdobyć ekwipunek, który nastepnie wykorzystują do walki między sobą na arenie.
